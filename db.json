@@ -1,0 +1,235 @@
+{
+    "products": [
+        {
+        "id": "86118848-6985-4200-8d30-4bb73613d944",
+        "name": "AMISTAR GOLD MAX - skuteczny fungicyd dla buraka i rzepaku",
+        "description": "<div class=\"h2-wrapper\">Test_description</div>",
+        "productType": "crop-protection",
+        "brand": "AMISTAR GOLD MAX",
+        "crop": [],
+        "videos": [
+          {
+            "videoUrl": "https://www.youtube.com/watch?v=UcJu8rdge1w",
+            "videoUrlDescription": "Tak chronimy hektary rzepaku niskim kosztem!"
+          },
+          {
+            "videoUrl": "https://www.youtube.com/watch?v=YQLVEgqDmgg",
+            "videoUrlDescription": "Buraki cukrowe na słabym stanowisku."
+          }
+        ],
+        "unitOfMeasure": "l",
+        "externalSkuId": "65928",
+        "size": 1,
+        "activeIngredients": [
+          "253"
+        ],
+        "formulation": "SC",
+        "operationMode": "wgłębny, układowy",
+        "cropProtectionType": "",
+        "cropProtectionGroup": [
+          "125 g/l (11,4%) azoksystrobina (związek z grupy strobiluryn) + 125 g/l (11,4%) difenokonazol (związek z grupy triazoli)"
+        ],
+        "images": [
+          {
+            "url": "https://sklep.syngenta.pl/media/catalog/product/a/m/amistar_gold_max_1l_1_1.jpg",
+            "label": "",
+            "dimensions": {
+              "w": 700,
+              "h": 1000
+            }
+          },
+          {
+            "url": "https://sklep.syngenta.pl/media/catalog/product/a/m/amistar_gold_max_5l.jpg",
+            "label": "",
+            "dimensions": {
+              "w": 700,
+              "h": 1000
+            }
+          }
+        ],
+        "files": []
+      }
+    ],
+    "categories": {
+        "id": 2,
+        "parent_id": 1,
+        "name": "Default Category",
+        "is_active": true,
+        "position": 1,
+        "level": 1,
+        "product_count": 98
+    },
+    "distributors": 
+    [
+        {
+          "id": "pk-distributor-1",
+          "key": "pk-distributor-1",
+          "distributorName": "Pakistan Distributor 1",
+          "partyId": "partyId 1234567890",
+          "phoneNumber": "+0 (000) 1234567890",
+          "addressDetails": "address details 1",
+          "emailAddress": "distributor1@email.address",
+          "locationInfo": {
+            "areas": [
+              [
+                {
+                  "level": 1,
+                  "areaKey": "top-level-area-1"
+                },
+                {
+                  "level": 2,
+                  "areaKey": "sub-area-1-2"
+                }
+              ],
+              [
+                {
+                  "level": 1,
+                  "areaKey": "top-level-area-2"
+                },
+                {
+                  "level": 2,
+                  "areaKey": "sub-area-2-1"
+                },
+                {
+                  "level": 3,
+                  "areaKey": "sub-area-2-1-1"
+                }
+              ]
+            ],
+            "geoAreaBoundary": 2,
+            "geoCoordinates": {
+              "longitude": 11.1,
+              "latitude": 22.2
+            }
+          },
+          "sellGroups": [
+            "SEEDS",
+            "CROP_PROTECTION"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [
+            "cat2",
+            "cat1"
+          ],
+          "isEcommerceActivated": true,
+          "isApproved": true
+        },
+        {
+          "id": "pk-distributor-2",
+          "key": "pk-distributor-2",
+          "distributorName": "Pakistan Distributor 2",
+          "partyId": "partyId 1234567890",
+          "phoneNumber": "+0 (000) 1234567890",
+          "addressDetails": "address details 2",
+          "emailAddress": "distributor1@email.address",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 55,
+            "geoCoordinates": {
+              "longitude": 180,
+              "latitude": 44.789
+            }
+          },
+          "sellGroups": [
+            "CROP_PROTECTION"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": false,
+          "isApproved": false
+        },
+        {
+          "id": "122TRT3tt-store",
+          "key": "122TRT3tt-store",
+          "distributorName": "polandNew",
+          "partyId": "1234",
+          "phoneNumber": "",
+          "addressDetails": "address",
+          "emailAddress": "",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 0,
+            "geoCoordinates": null
+          },
+          "sellGroups": [
+            "SEEDS"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": true,
+          "isApproved": true
+        },
+        {
+          "id": "122TRT3tt101-store",
+          "key": "122TRT3tt101-store",
+          "distributorName": "Lahore Syngenta",
+          "partyId": "123101",
+          "phoneNumber": "9876543210",
+          "addressDetails": "Lahore Syngenta Address",
+          "emailAddress": "syngenta101@syngenta.com",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 0,
+            "geoCoordinates": null
+          },
+          "sellGroups": [
+            "SEEDS"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": true,
+          "isApproved": true
+        },
+        {
+          "id": "122TRT3tt201-store",
+          "key": "122TRT3tt201-store",
+          "distributorName": "Peshavar Syngenta",
+          "partyId": "123201",
+          "phoneNumber": "987654321",
+          "addressDetails": "Peshavar Syngenta Address",
+          "emailAddress": "syngenta201@syngenta.com",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 0,
+            "geoCoordinates": null
+          },
+          "sellGroups": [
+            "SEEDS"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": true,
+          "isApproved": false
+        }
+    ],
+    "markets": {
+        "markets": [
+            {
+                "key": "pk-b2b2c-store",
+                "type": "B2B2C",
+                "name": "Pakistan market",
+                "countries": [
+                    "PK"
+                ]
+            },
+            {
+                "key": "pl-b2c-store",
+                "type": "B2C",
+                "name": "Poland market",
+                "countries": [
+                    "PL"
+                ]
+            }
+        ]
+    }
+}
